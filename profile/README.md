@@ -42,7 +42,7 @@ All TechClan repositories and resources are open for exploration and learning.
 ---
 
 <p align="center">
-  <a href="https://github.com/TechClan-CSDS"><img src="https://img.shields.io/badge/View%20All%20Repositories-0b1320?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/></a>
+  <a href="https://github.com/orgs/TechClan-CSDS/repositories"><img src="https://img.shields.io/badge/View%20All%20Repositories-0b1320?style=for-the-badge&logo=github&logoColor=white" alt="View Repositories"/></a>
 </p>
 
 ---
